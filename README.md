@@ -17,12 +17,12 @@ This project was a part of the project assessment in the 'AWS x Udacity's Machin
 3. app.ipynb: In this notebook, the best model is used to create a simple app for others to be able to use your model to find the most likely landmarks depicted in an image.
 
 4. Source files: These are python scripts that contains functions that are used to create the models reqqured for this classification.
-   a. data.py: This preprocesses the data used for classifications.
-   b. model.py: This defines the CNN architecture.
-   c. optimization.py: This defines the loss and optimizer of our model.
-   d. predictor.py: This contains codes to wrap the model for inference.
-   e. train.py: This contains codes to train, optimize while training and perform validations on our models.
-   f. transfer.py: This contains codes for using transfer learning to create a CNN for classifying landmark images.
+   1. data.py: This preprocesses the data used for classifications.
+   2. model.py: This defines the CNN architecture.
+   3. optimization.py: This defines the loss and optimizer of our model.
+   4. predictor.py: This contains codes to wrap the model for inference.
+   5. train.py: This contains codes to train, optimize while training and perform validations on our models.
+   6. transfer.py: This contains codes for using transfer learning to create a CNN for classifying landmark images.
 
 5. cnn_from_scratch.html: Web-page displaying 'cnn_from_scratch.ipynb'.
 
@@ -68,7 +68,7 @@ jupyter lab
 ![E9C5FC78-42EB-431D-A5D4-5A20FAC89AC4_1_201_a](https://github.com/AdedejiAdewole/Landmark-Classification-Tagging-for-Social-Media/assets/50617984/34bbe40f-3b82-4e96-8ea0-98c434746902)
 
 
-### 2.3.2 CNN from scratch after hyperparametization 
+#### 2.3.2 CNN from scratch after hyperparametization 
 
 ![D5697938-28C5-4FFA-8951-8BEBC18CDD04_1_201_a](https://github.com/AdedejiAdewole/Landmark-Classification-Tagging-for-Social-Media/assets/50617984/7307d3dd-94f8-47c0-ba1e-d20fdb7b9f4c)
 
